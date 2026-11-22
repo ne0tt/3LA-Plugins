@@ -5,7 +5,7 @@ aesthetic: chamfered HUD frames, targeting-reticle corner brackets, reserved
 title bars, a GLSL "signal lost" window-close effect, and a shader that pulls
 un-themeable apps toward your theme colour.
 
-All are C++ Hyprland plugins built against **Hyprland 0.57.1** (`acc1aa0`),
+All are C++ Hyprland plugins built against **Hyprland 0.57.2** (`acc1aa0`),
 configured only through Hyprland's Lua config (`hl.config`), and installable
 with `hyprpm`. Every plugin has an `enabled` option that turns it off live
 without unloading it.
